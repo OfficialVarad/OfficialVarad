@@ -1,16 +1,69 @@
-## Hi there 👋
 
-<!--
-**OfficialVarad/OfficialVarad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2SjjNyefIjuK_LaeBjnYyATpXXm7tdSlK9Q&s" alt="Varad Patil" width="160" style="border-radius:50%;" />
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">Varad Vilasrao Patil</h1>
+<h3 align="center">Project Research Assistant | eSim Team, FOSSEE @ IIT Bombay</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About  
+I am currently working full-time as a **Project Research Assistant** with the **eSim team at FOSSEE, IIT Bombay**. My work primarily focuses on the **development of open-source EDA tools** for circuit design, simulation, and education.  
+
+Previously, I was a **Research Trainee at the Space Applications Centre, ISRO Ahmedabad**, where I worked with **RTG4 space-grade FPGAs** in the Satellite Communication Division.  
+
+My expertise includes:  
+- Power Electronics and Motor Drives  
+- Embedded Systems & FPGA Programming  
+- Circuit Simulation & Control Systems  
+- Hardware-Software Integration  
+
+---
+
+## 📑 Publications & Research  
+
+- **eSim: An Open Source EDA**  
+  *Poster — 3rd Annual SemiX Summit 2025, Centre for Semiconductor Technologies, IIT Bombay*  
+  DOI: [10.13140/RG.2.2.29117.73448](https://doi.org/10.13140/RG.2.2.29117.73448)  
+  [View on ResearchGate](https://www.researchgate.net/publication/395902091_eSim_An_Open_Source_EDA)  
+
+- **An Offline AI Assistant for eSim: Easier, Accessible, Open-Source Circuit Design and Debugging**  
+  *Conference Paper — Opportunity Open Source Conference 3.0 (OOSC), IIT Kanpur, Sep 2025*  
+  [View on ResearchGate](https://www.researchgate.net/publication/395407803_An_Offline_AI_Assistant_for_eSim_Easier_Accessible_Open-Source_Circuit_Design_and_Debugging)  
+
+- **From Containers to Chip Design Classrooms: Leveraging Snap and Docker to Enable Open-Source EDA with eSim**  
+  *Conference Paper — Opportunity Open Source Conference 3.0 (OOSC), IIT Kanpur, Sep 2025*  
+  [View on ResearchGate](https://www.researchgate.net/publication/395407773_From_Containers_to_Chip_Design_Classrooms_Leveraging_Snap_and_Docker_to_Enable_Open-Source_EDA_with_eSim)  
+
+- **Development of a High-Voltage Induction Motor Drive with Isolation and Amplification Circuits Using TMS320F28335 for EV Applications**  
+  *Journal Article — International Journal of Research in Academic World, Vol. 4, Issue 5, May 2025, pp. 218–221*  
+  [View on ResearchGate](https://www.researchgate.net/publication/394191163_Development_of_a_High-Voltage_Induction_Motor_Drive_with_Isolation_and_Amplification_Circuits_Using_TMS320F28335_for_EV_Applications)  
+
+- **eSim: An Open-Source EDA Tool for Education**  
+  *Conference Paper — Workshop on Open-Source EDA Technology (WOSET), Nov 2024*  
+  [View on ResearchGate](https://www.researchgate.net/publication/394191231_eSim_An_Open-Source_EDA_Tool_for_Education)  
+
+
+📖 Full list of publications available on [ResearchGate](https://www.researchgate.net/profile/Varad-Patil-6).
+
+---
+
+## Technical Domains  
+- Circuit Design & Simulation (Analog, Digital, Mixed-signal)  
+- FPGA and Embedded Systems Development  
+- Power Electronics & Control Systems  
+- Real-Time Hardware Prototyping  
+
+---
+
+## Connect  
+<p align="center">
+  <a href="https://www.linkedin.com/in/patilvarad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.researchgate.net/profile/Varad-Patil-6"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+</p>
+
+---
+
+🔹 *“Engineering tools should be open, transparent, and empowering.”*
