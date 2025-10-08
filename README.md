@@ -29,11 +29,11 @@ My expertise includes:
   [View on ResearchGate](https://www.researchgate.net/publication/395902091_eSim_An_Open_Source_EDA)  
 
 - **An Offline AI Assistant for eSim: Easier, Accessible, Open-Source Circuit Design and Debugging**  
-  *Conference Paper — Opportunity Open Source Conference 3.0 (OOSC), IIT Kanpur, Sep 2025*  
+  *Conference — Opportunity Open Source Conference 3.0 (OOSC), IIT Kanpur, Sep 2025*  
   [View on ResearchGate](https://www.researchgate.net/publication/395407803_An_Offline_AI_Assistant_for_eSim_Easier_Accessible_Open-Source_Circuit_Design_and_Debugging)  
 
 - **From Containers to Chip Design Classrooms: Leveraging Snap and Docker to Enable Open-Source EDA with eSim**  
-  *Conference Paper — Opportunity Open Source Conference 3.0 (OOSC), IIT Kanpur, Sep 2025*  
+  *Conference — Opportunity Open Source Conference 3.0 (OOSC), IIT Kanpur, Sep 2025*  
   [View on ResearchGate](https://www.researchgate.net/publication/395407773_From_Containers_to_Chip_Design_Classrooms_Leveraging_Snap_and_Docker_to_Enable_Open-Source_EDA_with_eSim)  
 
 - **Development of a High-Voltage Induction Motor Drive with Isolation and Amplification Circuits Using TMS320F28335 for EV Applications**  
