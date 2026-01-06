@@ -55,7 +55,6 @@ My expertise includes:
 
 - **eSim: An Open-Source EDA Tool for Education**  
   *Conference Paper — Workshop on Open-Source EDA Technology (WOSET), Nov 2024*
-  DOI: []()
   [View on ResearchGate](https://www.researchgate.net/publication/394191231_eSim_An_Open-Source_EDA_Tool_for_Education)  
 
 
