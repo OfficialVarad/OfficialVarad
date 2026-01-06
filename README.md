@@ -29,7 +29,7 @@ My expertise includes:
   [View on ResearchGate](https://www.researchgate.net/publication/398318001_At_Aspire_Research_Park_-_eSim_An_Open_Source_EDA) 
 
 - **eSim on Ubuntu: Open Source EDA and PDKs for Circuit Design with Snap, Docker and AI**  
-  *Conference — UbuCon India 2025 - (IISc) Indian Institute of Science,Bengaluru Nov 15 – 16, 2025*
+  *Conference — UbuCon India 2025 - (IISc) Indian Institute of Science,Bengaluru Nov 15 – 16, 2025*  
   DOI: [10.13140/RG.2.2.16037.77285](https://doi.org/10.13140/RG.2.2.16037.77285)  
   [View on ResearchGate](https://www.researchgate.net/publication/398314534_eSim_on_Ubuntu_Open_Source_EDA_and_PDKs_for_Circuit_Design_with_Snap_Docker_and_AI) 
   
@@ -45,12 +45,12 @@ My expertise includes:
 
 - **From Containers to Chip Design Classrooms: Leveraging Snap and Docker to Enable Open-Source EDA with eSim**  
   *Conference — Opportunity Open Source Conference 3.0 (OOSC), IIT Kanpur, Sep 2025*  
-  DOI: [10.13140/RG.2.2.28250.40645](https://doi.org/10.13140/RG.2.2.28250.40645)
+  DOI: [10.13140/RG.2.2.28250.40645](https://doi.org/10.13140/RG.2.2.28250.40645)  
   [View on ResearchGate](https://www.researchgate.net/publication/395407773_From_Containers_to_Chip_Design_Classrooms_Leveraging_Snap_and_Docker_to_Enable_Open-Source_EDA_with_eSim)  
 
 - **Development of a High-Voltage Induction Motor Drive with Isolation and Amplification Circuits Using TMS320F28335 for EV Applications**  
-  *Journal Article — International Journal of Research in Academic World, Vol. 4, Issue 5, May 2025, pp. 218–221*
-  E-ISSN: 2583-1615, P-ISSN: 3049-3498
+  *Journal Article — International Journal of Research in Academic World, Vol. 4, Issue 5, May 2025, pp. 218–221*  
+  E-ISSN: 2583-1615, P-ISSN: 3049-3498  
   [View on ResearchGate](https://www.researchgate.net/publication/394191163_Development_of_a_High-Voltage_Induction_Motor_Drive_with_Isolation_and_Amplification_Circuits_Using_TMS320F28335_for_EV_Applications)  
 
 - **eSim: An Open-Source EDA Tool for Education**  
