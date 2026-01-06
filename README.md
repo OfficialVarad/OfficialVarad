@@ -23,6 +23,16 @@ My expertise includes:
 
 ## 📑 Publications & Research  
 
+**eSim: An Open Source EDA**  
+  *Poster — FinEdge 2025 At Aspire Research Park Foundation IIT Bombay - eSim : An Open Source EDA*  
+  DOI: [10.13140/RG.2.2.31605.84964](https://doi.org/10.13140/RG.2.2.31605.84964)  
+  [View on ResearchGate](https://www.researchgate.net/publication/398318001_At_Aspire_Research_Park_-_eSim_An_Open_Source_EDA) 
+
+- **eSim on Ubuntu: Open Source EDA and PDKs for Circuit Design with Snap, Docker and AI**  
+  *Conference — UbuCon India 2025 - (IISc) Indian Institute of Science,Bengaluru Nov 15 – 16, 2025*
+  DOI: [10.13140/RG.2.2.16037.77285](https://doi.org/10.13140/RG.2.2.16037.77285)  
+  [View on ResearchGate](https://www.researchgate.net/publication/398314534_eSim_on_Ubuntu_Open_Source_EDA_and_PDKs_for_Circuit_Design_with_Snap_Docker_and_AI) 
+  
 - **eSim: An Open Source EDA**  
   *Poster — 3rd Annual SemiX Summit 2025, Centre for Semiconductor Technologies, IIT Bombay*  
   DOI: [10.13140/RG.2.2.29117.73448](https://doi.org/10.13140/RG.2.2.29117.73448)  
