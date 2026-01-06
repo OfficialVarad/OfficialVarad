@@ -23,7 +23,7 @@ My expertise includes:
 
 ## 📑 Publications & Research  
 
-**eSim: An Open Source EDA**  
+- **eSim: An Open Source EDA**  
   *Poster — FinEdge 2025 At Aspire Research Park Foundation IIT Bombay - eSim : An Open Source EDA*  
   DOI: [10.13140/RG.2.2.31605.84964](https://doi.org/10.13140/RG.2.2.31605.84964)  
   [View on ResearchGate](https://www.researchgate.net/publication/398318001_At_Aspire_Research_Park_-_eSim_An_Open_Source_EDA) 
@@ -39,19 +39,23 @@ My expertise includes:
   [View on ResearchGate](https://www.researchgate.net/publication/395902091_eSim_An_Open_Source_EDA)  
 
 - **An Offline AI Assistant for eSim: Easier, Accessible, Open-Source Circuit Design and Debugging**  
-  *Conference — Opportunity Open Source Conference 3.0 (OOSC), IIT Kanpur, Sep 2025*  
+  *Conference — Opportunity Open Source Conference 3.0 (OOSC), IIT Kanpur, Sep 2025*
+  DOI: [10.13140/RG.2.2.14828.63365](https://doi.org/10.13140/RG.2.2.14828.63365)  
   [View on ResearchGate](https://www.researchgate.net/publication/395407803_An_Offline_AI_Assistant_for_eSim_Easier_Accessible_Open-Source_Circuit_Design_and_Debugging)  
 
 - **From Containers to Chip Design Classrooms: Leveraging Snap and Docker to Enable Open-Source EDA with eSim**  
-  *Conference — Opportunity Open Source Conference 3.0 (OOSC), IIT Kanpur, Sep 2025*  
+  *Conference — Opportunity Open Source Conference 3.0 (OOSC), IIT Kanpur, Sep 2025*
+  DOI: [10.13140/RG.2.2.28250.40645](https://doi.org/10.13140/RG.2.2.28250.40645)
   [View on ResearchGate](https://www.researchgate.net/publication/395407773_From_Containers_to_Chip_Design_Classrooms_Leveraging_Snap_and_Docker_to_Enable_Open-Source_EDA_with_eSim)  
 
 - **Development of a High-Voltage Induction Motor Drive with Isolation and Amplification Circuits Using TMS320F28335 for EV Applications**  
-  *Journal Article — International Journal of Research in Academic World, Vol. 4, Issue 5, May 2025, pp. 218–221*  
+  *Journal Article — International Journal of Research in Academic World, Vol. 4, Issue 5, May 2025, pp. 218–221*
+  E-ISSN: 2583-1615, P-ISSN: 3049-3498
   [View on ResearchGate](https://www.researchgate.net/publication/394191163_Development_of_a_High-Voltage_Induction_Motor_Drive_with_Isolation_and_Amplification_Circuits_Using_TMS320F28335_for_EV_Applications)  
 
 - **eSim: An Open-Source EDA Tool for Education**  
-  *Conference Paper — Workshop on Open-Source EDA Technology (WOSET), Nov 2024*  
+  *Conference Paper — Workshop on Open-Source EDA Technology (WOSET), Nov 2024*
+  DOI: []()
   [View on ResearchGate](https://www.researchgate.net/publication/394191231_eSim_An_Open-Source_EDA_Tool_for_Education)  
 
 
