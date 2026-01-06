@@ -1,4 +1,4 @@
-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c7af453f-cdbb-4ef4-b92c-2661fdc2ea16" />
 <p align="center">
 <img width="1584" height="396" alt="Black (1584 x 396 px)" src="https://github.com/user-attachments/assets/5e5f32cb-3642-409f-b584-7e6822a6739a" />
 </p>
@@ -54,7 +54,7 @@ My expertise includes:
   [View on ResearchGate](https://www.researchgate.net/publication/394191163_Development_of_a_High-Voltage_Induction_Motor_Drive_with_Isolation_and_Amplification_Circuits_Using_TMS320F28335_for_EV_Applications)  
 
 - **eSim: An Open-Source EDA Tool for Education**  
-  *Conference Paper — Workshop on Open-Source EDA Technology (WOSET), Nov 2024*
+  *Conference Paper — Workshop on Open-Source EDA Technology (WOSET), Nov 2024*  
   [View on ResearchGate](https://www.researchgate.net/publication/394191231_eSim_An_Open-Source_EDA_Tool_for_Education)  
 
 
