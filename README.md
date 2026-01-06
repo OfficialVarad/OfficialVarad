@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">Mr. Varad Patil</h1>
-<h3 align="center">Project Research Assistant | eSim Team, FOSSEE 
- Department of Aerospace Engineering IIT Bombay</h3>
+<h3 align="center">Project Research Assistant | eSim Team, FOSSEE</h3>
+ <h4 Department of Aerospace Engineering IIT Bombay</h4>
 
 ---
 
