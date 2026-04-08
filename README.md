@@ -1,82 +1,88 @@
+<img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/5e5f32cb-3642-409f-b584-7e6822a6739a" />
 
-<img width="1584" height="396" alt="Black (1584 x 396 px)" src="https://github.com/user-attachments/assets/5e5f32cb-3642-409f-b584-7e6822a6739a" />
+<h1 align="center">Sri. Varad Patil</h1>
+<h3 align="center">Project Research Assistant | eSim Team, FOSSEE</h3>
+<h4 align="center">Department of Aerospace Engineering, IIT Bombay</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FPGA-PolarFire%20%7C%20RTG4-2DD4BF?style=flat-square" />
+  <img src="https://img.shields.io/badge/eSim-Open%20Source%20EDA-FFB347?style=flat-square" />
+  <img src="https://img.shields.io/badge/ISRO-Space%20Applications%20Centre-0A66C2?style=flat-square" />
 </p>
 
-<h1 align="center">Mr. Varad Patil</h1>
-<h3 align="center">Project Research Assistant | eSim Team, FOSSEE</h3> 
-<h4 align="center"> Department of Aerospace Engineering, IIT Bombay</h4>
+---
+
+> “Engineering tools should be open, transparent, and empowering.”
 
 ---
 
-## About  
-I am currently working full-time as a **Project Research Assistant** with the **eSim team at FOSSEE, Indian Institute of Technology Bombay**. My work primarily focuses on the **development of open-source EDA tools** for circuit design, simulation, and education.  
+## 📖 About
 
-Previously, I was a **Research Trainee at the Space Applications Centre, ISRO Ahmedabad**, where I worked with **RTG4 space-grade FPGAs** in the Satellite Communication Division.  
-
-My expertise includes:  
-- Power Electronics and Motor Drives  
-- Embedded Systems & FPGA Programming  
-- Circuit Simulation & Control Systems  
-- Hardware-Software Integration  
-
----
-
-## 📑 Publications & Research  
-
-- **eSim: An Open Source EDA**  
-  *Poster — FinEdge 2025 At Aspire Research Park Foundation IIT Bombay - eSim : An Open Source EDA*  
-  DOI: [10.13140/RG.2.2.31605.84964](https://doi.org/10.13140/RG.2.2.31605.84964)  
-  [View on ResearchGate](https://www.researchgate.net/publication/398318001_At_Aspire_Research_Park_-_eSim_An_Open_Source_EDA) 
-
-- **eSim on Ubuntu: Open Source EDA and PDKs for Circuit Design with Snap, Docker and AI**  
-  *Conference — UbuCon India 2025 - (IISc) Indian Institute of Science,Bengaluru Nov 15 – 16, 2025*  
-  DOI: [10.13140/RG.2.2.16037.77285](https://doi.org/10.13140/RG.2.2.16037.77285)  
-  [View on ResearchGate](https://www.researchgate.net/publication/398314534_eSim_on_Ubuntu_Open_Source_EDA_and_PDKs_for_Circuit_Design_with_Snap_Docker_and_AI) 
-  
-- **eSim: An Open Source EDA**  
-  *Poster — 3rd Annual SemiX Summit 2025, Centre for Semiconductor Technologies, IIT Bombay*  
-  DOI: [10.13140/RG.2.2.29117.73448](https://doi.org/10.13140/RG.2.2.29117.73448)  
-  [View on ResearchGate](https://www.researchgate.net/publication/395902091_eSim_An_Open_Source_EDA)  
-
-- **An Offline AI Assistant for eSim: Easier, Accessible, Open-Source Circuit Design and Debugging**  
-  *Conference — Opportunity Open Source Conference 3.0 (OOSC), IIT Kanpur, Sep 2025*  
-  DOI: [10.13140/RG.2.2.14828.63365](https://doi.org/10.13140/RG.2.2.14828.63365)  
-  [View on ResearchGate](https://www.researchgate.net/publication/395407803_An_Offline_AI_Assistant_for_eSim_Easier_Accessible_Open-Source_Circuit_Design_and_Debugging)  
-
-- **From Containers to Chip Design Classrooms: Leveraging Snap and Docker to Enable Open-Source EDA with eSim**  
-  *Conference — Opportunity Open Source Conference 3.0 (OOSC), IIT Kanpur, Sep 2025*  
-  DOI: [10.13140/RG.2.2.28250.40645](https://doi.org/10.13140/RG.2.2.28250.40645)  
-  [View on ResearchGate](https://www.researchgate.net/publication/395407773_From_Containers_to_Chip_Design_Classrooms_Leveraging_Snap_and_Docker_to_Enable_Open-Source_EDA_with_eSim)  
-
-- **Development of a High-Voltage Induction Motor Drive with Isolation and Amplification Circuits Using TMS320F28335 for EV Applications**  
-  *Journal Article — International Journal of Research in Academic World, Vol. 4, Issue 5, May 2025, pp. 218–221*  
-  E-ISSN: 2583-1615, P-ISSN: 3049-3498  
-  [View on ResearchGate](https://www.researchgate.net/publication/394191163_Development_of_a_High-Voltage_Induction_Motor_Drive_with_Isolation_and_Amplification_Circuits_Using_TMS320F28335_for_EV_Applications)  
-
-- **eSim: An Open-Source EDA Tool for Education**  
-  *Conference Paper — Workshop on Open-Source EDA Technology (WOSET), Nov 2024*  
-  [View on ResearchGate](https://www.researchgate.net/publication/394191231_eSim_An_Open-Source_EDA_Tool_for_Education)  
-
-
-📖 Full list of publications available on **[ResearchGate](https://www.researchgate.net/profile/Varad-Patil-6), [Google Scholar](https://scholar.google.com/citations?user=jeCfzL8AAAAJ&hl=en)**
+<div align="center">
+  <table style="background-color: #0d1117; border-radius: 16px; padding: 16px; border: 1px solid #2dd4bf30;">
+    <tr>
+      <td>
+        <strong>Sri. Varad Patil </strong> working as Project <strong> Research Assistant </strong> with the eSim team at FOSSEE, IIT Bombay, contributing to open-source EDA tool development.<br/><br/>where they previously trained at <strong>ISRO’s Space Applications Centre</strong>, worked on FPGA-based <strong>satellite communication systems</strong>. Their expertise lies in power electronics, embedded systems, and control systems. Where they worked with <strong>RTG4 space-grade FPGAs</strong> in the Satellite Communication Division.<br/><br/>
+        <strong>Expertise includes:</strong><br/>
+        ⚡ Power Electronics and Motor Drives<br/>
+        🔷 Embedded Systems & FPGA Programming<br/>
+        🎛️ Circuit Simulation & Control Systems<br/>
+        🔌 Hardware-Software Integration
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## Technical Domains  
-- Circuit Design & Simulation (Analog, Digital, Mixed-signal)  
-- FPGA and Embedded Systems Development  
-- Power Electronics & Control Systems  
-- Real-Time Hardware Prototyping  
+## 📑 Publications & Research
+
+<div align="center">
+
+| | |
+|:---:|:---|
+| 📄 | **eSim: An Open Source EDA**<br/>*Poster — FinEdge 2025, Aspire Research Park Foundation, IIT Bombay*<br/>DOI: [10.13140/RG.2.2.31605.84964](https://doi.org/10.13140/RG.2.2.31605.84964) · [ResearchGate](https://www.researchgate.net/publication/398318001) |
+| 📄 | **eSim on Ubuntu: Open Source EDA and PDKs for Circuit Design with Snap, Docker and AI**<br/>*Conference — UbuCon India 2025, IISc Bengaluru, Nov 15–16, 2025*<br/>DOI: [10.13140/RG.2.2.16037.77285](https://doi.org/10.13140/RG.2.2.16037.77285) · [ResearchGate](https://www.researchgate.net/publication/398314534) |
+| 📄 | **eSim: An Open Source EDA**<br/>*Poster — 3rd Annual SemiX Summit 2025, Centre for Semiconductor Technologies, IIT Bombay*<br/>DOI: [10.13140/RG.2.2.29117.73448](https://doi.org/10.13140/RG.2.2.29117.73448) · [ResearchGate](https://www.researchgate.net/publication/395902091) |
+| 📄 | **An Offline AI Assistant for eSim: Easier, Accessible, Open-Source Circuit Design and Debugging**<br/>*Conference — OOSC 3.0, IIT Kanpur, Sep 2025*<br/>DOI: [10.13140/RG.2.2.14828.63365](https://doi.org/10.13140/RG.2.2.14828.63365) · [ResearchGate](https://www.researchgate.net/publication/395407803) |
+| 📄 | **From Containers to Chip Design Classrooms: Leveraging Snap and Docker to Enable Open-Source EDA with eSim**<br/>*Conference — OOSC 3.0, IIT Kanpur, Sep 2025*<br/>DOI: [10.13140/RG.2.2.28250.40645](https://doi.org/10.13140/RG.2.2.28250.40645) · [ResearchGate](https://www.researchgate.net/publication/395407773) |
+| 📄 | **Development of a High-Voltage Induction Motor Drive with Isolation and Amplification Circuits Using TMS320F28335 for EV Applications**<br/>*Journal — IJRAW, Vol. 4, Issue 5, May 2025, pp. 218–221*<br/>E-ISSN: 2583-1615, P-ISSN: 3049-3498 · [ResearchGate](https://www.researchgate.net/publication/394191163) |
+| 📄 | **eSim: An Open-Source EDA Tool for Education**<br/>*Conference Paper — WOSET, Nov 2024*<br/>[ResearchGate](https://www.researchgate.net/publication/394191231) |
+
+</div>
+
+📖 Full list: **[ResearchGate](https://www.researchgate.net/profile/Varad-Patil-6)** · **[Google Scholar](https://scholar.google.com/citations?user=jeCfzL8AAAAJ&hl=en)**
 
 ---
 
-## Connect  
+## 🔧 Technical Domains
+
+<div align="center">
+  <table style="background-color: #0d1117; border-radius: 16px; padding: 12px; border: 1px solid #2dd4bf30;">
+    <tr>
+      <td>
+        🟢 Circuit Design & Simulation (Analog, Digital, Mixed-signal)<br/>
+        🟢 FPGA and Embedded Systems Development<br/>
+        🟢 Power Electronics & Control Systems<br/>
+        🟢 Real-Time Hardware Prototyping
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🤝 Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/patilvarad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.researchgate.net/profile/Varad-Patil-6"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=jeCfzL8AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+  <a href="https://github.com/OfficialVarad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-🔹 *“Engineering tools should be open, transparent, and empowering.”*
+<p align="center">
+  <i>“Engineering tools should be open, transparent, and empowering.”</i>
+</p>
